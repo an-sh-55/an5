@@ -16,3 +16,9 @@ a{text-decoration: none; color: #111; margin: 0 10px; }
   <p>Class 11 student exploring Python and Artificial Intelligence.</p>
 </body>
 </html>
+<nav>
+      <a href="#about">About</a>
+      <a href="#projects">Projects</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>

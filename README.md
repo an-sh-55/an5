@@ -21,7 +21,7 @@ a{text-decoration: none; color: #111; margin: 0 10px; }
       <a href="#projects">Projects</a>
       <a href="#contact">Contact</a>
     </nav>
-  </header>
+
 <section id="about">
     <h2>About Me</h2>
     <p>

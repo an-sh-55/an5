@@ -22,3 +22,10 @@ a{text-decoration: none; color: #111; margin: 0 10px; }
       <a href="#contact">Contact</a>
     </nav>
   </header>
+<section id="about">
+    <h2>About Me</h2>
+    <p>
+      I’m passionate about AI, Python, and building creative coding projects. 
+      Currently learning how to combine design, data, and intelligence into web experiences.
+    </p>
+  </section>

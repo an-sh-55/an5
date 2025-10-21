@@ -3,7 +3,7 @@
 <html lang="en">
 
 <body>
-<h1>Hi, I'm Ans 👋</h1>
+<h1>Hi, I'm Anshika </h1>
   <p>Class 11 student exploring Python and Artificial Intelligence.</p>
 </body>
 </html>

@@ -1,5 +1,5 @@
 # an5
-<!DOCTYPE html>
+
 <html lang="en">
 
 <body>
@@ -20,7 +20,4 @@
       Currently learning how to combine design, data, and intelligence into web experiences.
     </p>
   </section>
-  body {
-  background: linear-gradient(135deg, #38bdf8, #1e3a8a);
-  color: white;
-}
+ 
